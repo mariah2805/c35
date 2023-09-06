@@ -10,7 +10,7 @@ const firebaseConfig = {
 
 // Initialize Firebase
  firebase.initializeApp(firebaseConfig);
-const database = firebese.database()
+const database = firebase.database()
 
 var bola
 
